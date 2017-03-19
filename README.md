@@ -1,2 +1,2 @@
 # Text_Prediction
-The given python code aims to build a Recurrent Neural Networks based Language Model. Reddit comments were used as training data for the network. 
+The given python code aims to build a Recurrent Neural Networks based Language Model. Word2Vec and the network were trained using the Reddit comments.
